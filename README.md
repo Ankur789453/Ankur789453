@@ -1,4 +1,12 @@
 <img src="assets/banner.png" alt="cover banner" style="width:100%;"/>
+<picture>
+  <!-- Dark mode -->
+  <source srcset="assets/MACHINE.png" media="(prefers-color-scheme: dark)"style="width:100%;">
+  <!-- Light mode -->
+  <source srcset="assets/MACHINE (1).png" media="(prefers-color-scheme: light)" style="width:100%;">
+  <!-- Fallback for older browsers -->
+  <img src="assets/MACHINE.png" alt="cover banner" style="width:100%;">
+</picture>
 
 <h1 align="center">🚀🌟✨ I’m Ankur Jangra ✨🌟🚀</h1>
 <h2 align="center">🧠🔬 Turning Data into Impact 📈 | Machine Learning 🤖 | AI & Analytics 📊⚙️💡 | 💻 Pythonic Thinker</h2>
