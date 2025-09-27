@@ -3,7 +3,7 @@
   <source srcset="MACHINE.png" media="(prefers-color-scheme: dark)">
   
   <!-- Light mode -->
-  <source srcset="MACHINE (1).png" media="(prefers-color-scheme: light)">
+  <source srcset="MACHINE(1).png" media="(prefers-color-scheme: light)">
   
   <!-- Fallback and style -->
   <img src="assets/MACHINE.png" alt="cover banner" style="width:100%;">
